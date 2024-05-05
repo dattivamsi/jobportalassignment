@@ -32,3 +32,10 @@ src/actions: Redux action creators.
 src/components: React components.
 src/reducers: Redux reducers.
 src/utils: Utility functions.
+
+**Technology Stack**
+
+ReactJs
+Redux
+CSS
+Antd

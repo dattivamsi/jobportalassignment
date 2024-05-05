@@ -16,15 +16,18 @@ Filter job listings based on criteria such as minimum experience, company name, 
 Infinite scroll to load additional job listings as the user scrolls down the page.
 
 **Usage**
+
 Upon running the application, you will be able to view job listings in the "Search jobs" section.
 Use the filters on the left side to refine job listings based on your preferences.
 Scroll down the page to load more job listings dynamically.
 
 **API Integration**
+
 The application fetches job listings from the following API: https://api.weekday.technology/adhoc/getSampleJdJSON.
 The API endpoint accepts limit and offset as request body parameters to retrieve job listings.
 
 **Folder Structure**
+
 src/actions: Redux action creators.
 src/components: React components.
 src/reducers: Redux reducers.
